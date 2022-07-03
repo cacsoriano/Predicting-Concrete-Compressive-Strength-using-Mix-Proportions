@@ -5,7 +5,7 @@ A data science project on predicting the compressive strength of concrete using 
 ### Highlights
 1. Concrete compressive strength is non-linear because linear models perform poorly when it is fitted.
 
-2. For the full dataset, the best model is Random Forest with R<sup>2</sup> = 0.9205$ and age as the top predictor.
+2. For the full dataset, the best model is Random Forest with $R$<sup>2</sup> = 0.9205 and age as the top predictor.
 
 3. For the `$age >= 28$`, the best model is Random Forest with an R2 of 0.9049 for the full dataset and wc_ratio as the top predictor.
 
